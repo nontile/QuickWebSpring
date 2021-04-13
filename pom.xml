@@ -5,13 +5,13 @@
 
 	<!-- see https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle -->
 	<groupId>io.honeymon.springboot.boot</groupId>
-	<artifactId>boot-spring-boot</artifactId>
+	<artifactId>quick-web-spring</artifactId>
 	<version>2021.03</version>
 	<packaging>jar</packaging>
 
 	<name>quick-web-spring</name>
-	<description>Boot Spring Boot Project</description>
-	<url>https://github.com/ihoneymon/boot-spring-boot</url>
+	<description>Docker Spring Boot Project</description>
+	<url>https://github.com/nontile/QuickWebSpring</url>
 	<organization>
 		<name>face.jsoone.com</name>
 		<url>http://face.jsoone.com</url>
