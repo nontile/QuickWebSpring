@@ -6,15 +6,15 @@
 	<!-- see https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle -->
 	<groupId>io.honeymon.springboot.boot</groupId>
 	<artifactId>boot-spring-boot</artifactId>
-	<version>2021.0</version>
+	<version>2021.03</version>
 	<packaging>jar</packaging>
 
-	<name>boot-spring-boot</name>
+	<name>spring-boot-web</name>
 	<description>Boot Spring Boot Project</description>
 	<url>https://github.com/ihoneymon/boot-spring-boot</url>
 	<organization>
-		<name>honeymon.io</name>
-		<url>http://honeymon.io</url>
+		<name>face.jsoone.com</name>
+		<url>http://face.jsoone.com</url>
 	</organization>
 
 	<parent>
