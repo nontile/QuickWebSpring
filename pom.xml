@@ -9,7 +9,7 @@
 	<version>2021.03</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-web</name>
+	<name>quick-web-spring</name>
 	<description>Boot Spring Boot Project</description>
 	<url>https://github.com/ihoneymon/boot-spring-boot</url>
 	<organization>
